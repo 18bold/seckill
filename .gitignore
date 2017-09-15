@@ -48,3 +48,4 @@ Temporary Items
 /src/test/
 /target/
 *.class
+.idea/workspace.xml
